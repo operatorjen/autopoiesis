@@ -1,1 +1,1 @@
-f=c=>console.log(`If uniqueclones are ${c?'odd':'even'}, youcan helpme `+ (c?'design fromchaos':'design an anonymous, db-free chat')+' in <= 1k '); f(2*Math.random()|0)
+f=c=>console.log(`If unique clones are ${c?'odd':'even'}, you can helpme `+ (c?'designfromchaos':'design an anonymous, db-freechat')+' in <= 1k '); f(2*Math.random()|0)
